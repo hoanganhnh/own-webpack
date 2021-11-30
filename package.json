@@ -1,0 +1,17 @@
+{
+  "name": "own-webpack",
+  "version": "1.0.0",
+  "description": "buil my wedpack",
+  "main": "index.js",
+  "repository": "https://github.com/hoanganhnh/own-webpack.git",
+  "author": "Nguyễn Hoàng Anh <hoahoanganh20012001@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-traverse": "^6.26.0",
+    "babylon": "^6.18.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
